@@ -1,2 +1,2 @@
 # automandom
-Cellular automata programs, simulations and criptography using them.
+Cellular automata programs, simulations and criptography.
